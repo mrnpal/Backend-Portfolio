@@ -6,7 +6,7 @@ import (
 	"portfolio-website/internal/config"
 	"portfolio-website/internal/repository"
 
-	"github.com/gin-contrib/cors" // Add this import
+	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )
 
